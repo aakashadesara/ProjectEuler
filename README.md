@@ -1,3 +1,3 @@
 # ProjectEuler
 
-Python based mathematics questions at ProjectEuler.com
+Python based mathematics questions at https://projecteuler.net
